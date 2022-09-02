@@ -9,7 +9,7 @@ httpでhtmlを公開した場合はDynmapがhttpのサーバーもhttpsのサー
 # 使い方
 index.htmlを開いたときに表示するサーバーの設定
 <br>
-https://github.com/malken21/DynmapHook/blob/main/index.html
+https://github.com/malken21/DynmapHook/blob/main/index.html#L19
 <br>
 <br>
 一覧に表示するサーバーの設定
