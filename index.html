@@ -16,7 +16,21 @@
 
 <body class="main">
 
-  <iframe src="http://torosaba.net:8123/" title="map" class="main"></iframe>
+  <iframe src="サーバー1のDynmapのURL (一番初めに表示する)" id="map" title="map" class="main"></iframe>
+
+  <div class="main">
+    <span>Server:</span>
+    <br>
+    <form name="srv">
+      <label>
+        <input type="radio" name="add" value="サーバー1のDynmapのURL" onchange="Change();" checked>サーバー1の表示名
+      </label>
+      <br>
+      <label>
+        <input type="radio" name="add" value="サーバー2のDynmapのURL" onchange="Change();">サーバー2の表示名
+      </label>
+    </form>
+  </div>
 
 </body>
 
