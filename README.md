@@ -15,6 +15,7 @@ https://github.com/malken21/DynmapHook/blob/main/index.html#L19
 一覧に表示するサーバーの設定
 <br>
 https://github.com/malken21/DynmapHook/blob/main/index.html#L25-L31
+<br>
 追加する場合は
 ```html
 <br>
